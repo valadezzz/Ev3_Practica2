@@ -29,6 +29,8 @@ print("Menor:", mi_clase.menor())
 print("¿Son iguales?:", mi_clase.iguales())
 print("Concatenación:", mi_clase.concatenar())  
 
+print (" ")
+
 mi_clase2 = Mi_Clase(9, 9, 9)
 
 print("Suma:", mi_clase2.sumar())
