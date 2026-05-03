@@ -28,3 +28,11 @@ print("Mayor:", mi_clase.mayor())
 print("Menor:", mi_clase.menor())
 print("¿Son iguales?:", mi_clase.iguales())
 print("Concatenación:", mi_clase.concatenar())  
+
+mi_clase2 = Mi_Clase(9, 9, 9)
+
+print("Suma:", mi_clase2.sumar())
+print("Mayor:", mi_clase2.mayor())
+print("Menor:", mi_clase2.menor())
+print("¿Son iguales?:", mi_clase2.iguales())
+print("Concatenación:", mi_clase2.concatenar())  
